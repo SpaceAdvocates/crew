@@ -22,7 +22,7 @@
 		$name = $officer->fname . ' ' . $officer->lname;
 	?>
 		<li class="<?php echo $officer->department . ' ' . $officer->rank->name; ?>">
-			<img src="images/crew/<?php echo str_replace(' ','_',$name) ?>.jpg" alt="<?php echo $name; ?>" />
+			<img src="images/crew/<?php echo strtolower(str_replace(' ','_',$name)) ?>.jpg" alt="<?php echo $name; ?>" />
 			<div class="meta">
 				<div class="name"><?php echo $name; ?></div>
 				<div class="department"><?php echo $officer->department; ?></div>
