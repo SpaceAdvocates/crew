@@ -1,0 +1,51 @@
+/////// Config defaults for site border style /////// 
+// -----------------------------------------------------------------------------
+
+/////// Config defaults for site colors /////// 
+// -----------------------------------------------------------------------------
+@black: #000000;
+@white: #ffffff;
+
+@light_gold: #FFD700;
+@gold: #EEAD0E;
+@dark_gold: #aa6600;
+
+@blue: #1E90FF;
+
+@red: #FF4040;
+
+/////// Page dimension configuration /////// 
+// -----------------------------------------------------------------------------
+@page_width: 1200px;
+
+/////// Typography configuration /////// 
+// -----------------------------------------------------------------------------
+@primary_font: Horizon, Helvetica, sans-serif;
+@secondary_font: Courier, serif;
+
+/////// Config defaults for buttons /////// 
+// -----------------------------------------------------------------------------
+
+/////// UI @media breakpoint defaults /////// 
+// -----------------------------------------------------------------------------
+@phone_portrait_width: 		480px;
+@phone_landscape_width: 	800px;
+
+@phone: 					"screen and (max-width: @{phone_landscape_width})";
+@phone_portrait: 		"screen and (max-width: @{phone_portrait_width}) and (orientation: portrait)";
+@phone_landscape:		"screen and (max-width: @{phone_landscape_width}) and (orientation: landscape)";
+
+@tablet_portrait_width: 	800px;
+@tablet_landscape_width: 	1280px;
+
+@tablet: 				"screen and (min-width: @{tablet_portrait_width}) and (max-width: @{tablet_landscape_width})";
+@tablet_portrait:  	"screen and (max-width: @{tablet_portrait_width}) and (orientation: portrait)";
+@tablet_landscape: 	"screen and (max-width: @{tablet_landscape_width}) and (orientation: landscape)";
+
+@desktop_width: 				1280px;
+
+@desktop: 				"screen and (min-width: @{desktop_width})";
+
+/////// Site Icons and Images /////// 
+// -----------------------------------------------------------------------------
+@header_background_uri: "/images/45degree_fabric.png";

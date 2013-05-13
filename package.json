@@ -1,0 +1,16 @@
+{
+  "author": "Joseph Spens (http://spens.us/)",
+  "name": "crew",
+  "description": "The crew of Space Advocates",
+  "version": "0.0.0",
+  "homepage": "http://spaceadvocates.com/",
+  "repository": {
+    "url": "https://github.com/josephspens/crew"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

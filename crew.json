@@ -1,0 +1,229 @@
+{
+	"crew": [
+		{
+			"fname": "Courtney",
+			"lname": "Kuhlman",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Joseph",
+			"lname": "Spens",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "engineering"
+		},
+		{
+			"fname": "Victoria",
+			"lname": "Varone",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "John",
+			"lname": "Zeller",
+			"rank": {
+				"name": "captain",
+				"level": 4
+			},
+			"department": "command"
+		},
+		{
+			"fname": "Mike",
+			"lname": "Dawson",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Zain",
+			"lname": "Husain",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Kyle",
+			"lname": "Sullivan",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Matt",
+			"lname": "Daily",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Chealsye",
+			"lname": "Bowley",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Julianne",
+			"lname": "DeAngelo",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Daniel",
+			"lname": "French",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Dylan",
+			"lname": "Schweitzer",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Rob",
+			"lname": "Eubank",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Evan",
+			"lname": "Schurr",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Nick",
+			"lname": "Saab",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Erica",
+			"lname": "Meszaros",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "engineering"
+		},
+		{
+			"fname": "David",
+			"lname": "Pesce",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "engineering"
+		},
+		{
+			"fname": "Kyle",
+			"lname": "Knox",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "engineering"
+		},
+		{
+			"fname": "Randall",
+			"lname": "Nall",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Dennis",
+			"lname": "Valansi",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Perfume",
+			"lname": "Drinker",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Darin",
+			"lname": "Gilchrist",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "engineering"
+		},
+		{
+			"fname": "John",
+			"lname": "Stancliffe",
+			"rank": {
+				"name": "commander",
+				"level": 3
+			},
+			"department": "engineering"
+		},
+		{
+			"fname": "Kris",
+			"lname": "Aubuchon",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		},
+		{
+			"fname": "Geoff",
+			"lname": "Lichy",
+			"rank": {
+				"name": "lieutenant",
+				"level": 2
+			},
+			"department": "science"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+body {
+	background-color: @black;
+	color: @white;
+
+	#space {
+		background: url('/images/space/foreground.png') 5% 5%, url('/images/space/midground.png') 50% 50%, url('/images/space/background.png') 90% 110%;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		position: fixed;
+		-webkit-animation: slide 10s linear infinite;
+	}
+	#wrapper {
+		position: relative;
+		width: @page_width;
+		margin: 0px auto;
+
+		header {
+			text-align: center;
+			margin: 50px 0px;
+
+			h1 {
+				font: italic 8em/1em @primary_font;
+				text-transform: uppercase;
+				margin: 0px;
+			}
+		}
+	}
+}
+
+@-webkit-keyframes slide {
+    from{
+        left: 0px;
+    }
+    to{
+        left: -500px;
+    }
+}
